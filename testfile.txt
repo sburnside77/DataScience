@@ -1,0 +1,33 @@
+"mpg"c"cyl"c"disp"c"hp"c"drat"c"wt"c"qsec"c"vs"c"am"c"gear"c"carb"
+"Mazda RX4"c21c6c160c110c3.9c2.62c16.46c0c1c4c4
+"Mazda RX4 Wag"c21c6c160c110c3.9c2.875c17.02c0c1c4c4
+"Datsun 710"c22.8c4c108c93c3.85c2.32c18.61c1c1c4c1
+"Hornet 4 Drive"c21.4c6c258c110c3.08c3.215c19.44c1c0c3c1
+"Hornet Sportabout"c18.7c8c360c175c3.15c3.44c17.02c0c0c3c2
+"Valiant"c18.1c6c225c105c2.76c3.46c20.22c1c0c3c1
+"Duster 360"c14.3c8c360c245c3.21c3.57c15.84c0c0c3c4
+"Merc 240D"c24.4c4c146.7c62c3.69c3.19c20c1c0c4c2
+"Merc 230"c22.8c4c140.8c95c3.92c3.15c22.9c1c0c4c2
+"Merc 280"c19.2c6c167.6c123c3.92c3.44c18.3c1c0c4c4
+"Merc 280C"c17.8c6c167.6c123c3.92c3.44c18.9c1c0c4c4
+"Merc 450SE"c16.4c8c275.8c180c3.07c4.07c17.4c0c0c3c3
+"Merc 450SL"c17.3c8c275.8c180c3.07c3.73c17.6c0c0c3c3
+"Merc 450SLC"c15.2c8c275.8c180c3.07c3.78c18c0c0c3c3
+"Cadillac Fleetwood"c10.4c8c472c205c2.93c5.25c17.98c0c0c3c4
+"Lincoln Continental"c10.4c8c460c215c3c5.424c17.82c0c0c3c4
+"Chrysler Imperial"c14.7c8c440c230c3.23c5.345c17.42c0c0c3c4
+"Fiat 128"c32.4c4c78.7c66c4.08c2.2c19.47c1c1c4c1
+"Honda Civic"c30.4c4c75.7c52c4.93c1.615c18.52c1c1c4c2
+"Toyota Corolla"c33.9c4c71.1c65c4.22c1.835c19.9c1c1c4c1
+"Toyota Corona"c21.5c4c120.1c97c3.7c2.465c20.01c1c0c3c1
+"Dodge Challenger"c15.5c8c318c150c2.76c3.52c16.87c0c0c3c2
+"AMC Javelin"c15.2c8c304c150c3.15c3.435c17.3c0c0c3c2
+"Camaro Z28"c13.3c8c350c245c3.73c3.84c15.41c0c0c3c4
+"Pontiac Firebird"c19.2c8c400c175c3.08c3.845c17.05c0c0c3c2
+"Fiat X1-9"c27.3c4c79c66c4.08c1.935c18.9c1c1c4c1
+"Porsche 914-2"c26c4c120.3c91c4.43c2.14c16.7c0c1c5c2
+"Lotus Europa"c30.4c4c95.1c113c3.77c1.513c16.9c1c1c5c2
+"Ford Pantera L"c15.8c8c351c264c4.22c3.17c14.5c0c1c5c4
+"Ferrari Dino"c19.7c6c145c175c3.62c2.77c15.5c0c1c5c6
+"Maserati Bora"c15c8c301c335c3.54c3.57c14.6c0c1c5c8
+"Volvo 142E"c21.4c4c121c109c4.11c2.78c18.6c1c1c4c2
